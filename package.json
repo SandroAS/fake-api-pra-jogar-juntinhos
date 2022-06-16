@@ -1,0 +1,23 @@
+{
+  "name": "projeto_1_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandroAS/fake-api-pra-jogar-juntinhos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandroAS/fake-api-pra-jogar-juntinhos/issues"
+  },
+  "homepage": "https://github.com/SandroAS/fake-api-pra-jogar-juntinhos#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
