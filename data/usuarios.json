@@ -1,40 +1,38 @@
-{
-  "usuarios": [
-    {
-      "id": 1,
-      "nome": "Lucas",
-      "senha": "Brasil1010",
-      "avatar": "cody"
-    },
-    {
-      "id": 2,
-      "nome": "PedrinhoGamer",
-      "senha": "Coxinha123",
-      "avatar": ""
-    },
-    {
-      "id": 3,
-      "nome": "Vitória3",
-      "senha": "Teste",
-      "avatar": "02"
-    },
-    {
-      "id": 4,
-      "nome": "Sandro",
-      "senha": "1234",
-      "avatar": "10"
-    },
-    {
-      "id": 5,
-      "nome": "Super",
-      "senha": "",
-      "avatar": ""
-    },
-    {
-      "id": 6,
-      "nome": "Hugo",
-      "senha": "1234",
-      "avatar": "10"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "nome": "Lucas",
+    "senha": "Brasil1010",
+    "avatar": "cody"
+  },
+  {
+    "id": 2,
+    "nome": "PedrinhoGamer",
+    "senha": "Coxinha123",
+    "avatar": ""
+  },
+  {
+    "id": 3,
+    "nome": "Vitória3",
+    "senha": "Teste",
+    "avatar": "02"
+  },
+  {
+    "id": 4,
+    "nome": "Sandro",
+    "senha": "1234",
+    "avatar": "10"
+  },
+  {
+    "id": 5,
+    "nome": "Super",
+    "senha": "",
+    "avatar": ""
+  },
+  {
+    "id": 6,
+    "nome": "Hugo",
+    "senha": "1234",
+    "avatar": "10"
+  }
+]
